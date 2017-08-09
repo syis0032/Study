@@ -5,6 +5,8 @@ int main() {
     int count;
     std::cin >> count;
     
+    //test comment
+    
     for(int i = 0; i < count ; i++){
         std::stack<char> bracketStack;
         std::string fullStr;
